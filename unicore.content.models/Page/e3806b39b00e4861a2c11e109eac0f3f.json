@@ -5,13 +5,13 @@
   "title": "\u0645\u06cc\u0631\u06d2 \u0627\u067e\u0646\u06d2 \u0645\u0633\u062a\u0642\u0628\u0644 \u06a9\u06d2 \u0644\u06cc\u06d2 \u0628\u0691\u06d2 \u062e\u0648\u0627\u0628 \u06c1\u06cc\u06ba\u06d4\u06d4\u06d4\u06d4'", 
   "primary_category": "afc857f375a24a778a0d4fbfacc665fc", 
   "created_at": "2015-07-28T21:25:41+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-07-29T21:26:14.450450+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-08-04T07:36:49.155946+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 7, 
+  "position": 24, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "i-have-big-dreams-my-future", 
   "uuid": "e3806b39b00e4861a2c11e109eac0f3f"
