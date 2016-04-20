@@ -5,13 +5,13 @@
   "title": " \u06a9\u0633\u06cc \u062f\u0648\u0633\u062a \u06a9\u06d2 \u0633\u0627\u062a\u06be \u0645\u0644 \u06a9\u0631 \u0628\u0686\u062a \u06a9\u0631\u0646\u0627 \u06a9\u06cc\u0633\u0627 \u0631\u06c1\u06d2 \u06af\u0627! ", 
   "primary_category": "a92179f4ed72429184b303ec12583027", 
   "created_at": "2016-01-02T06:08:20+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2016-01-02T06:21:14.543135+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-20T20:53:45.671659+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 5, 
+  "position": 17, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-save-friend", 
   "uuid": "2ff213437d8147f1b2d6df4cee7441cd"
