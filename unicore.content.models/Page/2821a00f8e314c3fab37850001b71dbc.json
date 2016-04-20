@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": " Get moving, be happy!", 
   "primary_category": "a411e913f1c84d479befbd6af6024965", 
-  "created_at": "2015-12-08T09:26:56.955981+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2015-12-08T09:26:56.956179+00:00", 
+  "created_at": "2015-12-08T09:26:56+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-04-20T21:15:29.103763+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 29, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "get-moving-be-happy", 
   "uuid": "2821a00f8e314c3fab37850001b71dbc"
